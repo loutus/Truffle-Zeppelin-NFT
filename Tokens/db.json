@@ -1,28 +1,8 @@
+
 {
-  "posts": [
-    {
-      "id": 0,
-      "description": "Human NFT",
-      "image": "https://github.com/loutus/Truffle-Zeppelin-NFT/Tokens/Human_0.png",
-      "name": "HUNFT 0"
-    },
-    {
-      "id": 1,
-      "description": "Human NFT",
-      "image": "https://github.com/loutus/Truffle-Zeppelin-NFT/Tokens/Human_1.png",
-      "name": "HUNFT 1"
-    },
-    {
-      "id": 2,
-      "description": "Human NFT",
-      "image": "https://github.com/loutus/Truffle-Zeppelin-NFT/Tokens/Human_2.png",
-      "name": "HUNFT 2"
-    },
-    {
-      "id": 3,
-      "description": "Human NFT",
-      "image": "https://github.com/loutus/Truffle-Zeppelin-NFT/Tokens/Human_2.png",
-      "name": "HUNFT 3"
-    }
-  ]
+  "id": 0,
+  "description": "My NFT",
+  "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+  "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+  "name": "My NFT 0"
 }
