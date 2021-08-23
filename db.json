@@ -2,27 +2,27 @@
   "tokens": [
     {
       "id": 0,
-      "description": "Human NFT",
-      "image": "https://openmoji.org/data/color/svg/1F609.svg",
-      "name": "HUNFT 0"
+      "description": "winking face",
+      "image": "https://openmoji.org/data/black/svg/1F609.svg",
+      "name": "face 0"
     },
     {
       "id": 1,
-      "description": "Human NFT",
-      "image": "https://github.com/loutus/Truffle-Zeppelin-NFT/blob/master/pictures/Human_1.png",
-      "name": "HUNFT 1"
+      "description": "smiling face with heart-eyes",
+      "image": "https://openmoji.org/data/black/svg/1F60D.svg",
+      "name": "face 1"
     },
     {
       "id": 2,
-      "description": "Human NFT",
-      "image": "https://github.com/loutus/Truffle-Zeppelin-NFT/blob/master/pictures/Human_2.png",
-      "name": "HUNFT 2"
+      "description": "upside-down face",
+      "image": "https://openmoji.org/data/black/svg/1F643.svg",
+      "name": "face 2"
     },
     {
       "id": 3,
-      "description": "Human NFT",
-      "image": "https://github.com/loutus/Truffle-Zeppelin-NFT/blob/master/pictures/Human_3.png",
-      "name": "HUNFT 3"
+      "description": "beaming face with smiling eyes",
+      "image": "https://openmoji.org/data/black/svg/1F601.svg",
+      "name": "face 3"
     }
   ]
 }
