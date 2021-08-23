@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@openzeppelin/contracts": "^4.2.0"
+    "@nomiclabs/hardhat-etherscan": "^2.1.4",
+    "@openzeppelin/contracts": "^4.2.0",
+    "truffle-plugin-verify": "^0.5.11"
   }
 }
